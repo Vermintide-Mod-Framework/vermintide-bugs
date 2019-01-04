@@ -23,8 +23,8 @@ A clear and concise description of what you expected to happen.
 ### Screenshots ### 
 (Optional) If applicable, add screenshots to help explain the bug.
 
-**Additional context**
+### Additional context ###
 (Optional) Any context that may help diagnose the problem. Eg.
 + OS: [e.g. Windows 10]
 + Game patch [e.g. 1.11]
-+ Active modpack: [e.g. QoL]
++ Modpack: [e.g. QoL]
